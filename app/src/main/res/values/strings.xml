@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mineseeker</string>
+    <string name="title_author">by Diego Buencamino</string>
+    <string name="title_skipbtn">Skip</string>
+    <string name="title_title">Mineseeker</string>
+    <string name="menu_playbtn">Play</string>
+    <string name="menu_optionsbtn">Options</string>
+    <string name="menu_helpbtn">Help</string>
+    <string name="help_about">This game was created by Diego Buencamino as an assignment for <a href="https://opencoursehub.cs.sfu.ca/jackt/grav-cms/cmpt276-2/home">CMPT 295</a> taken at Simon Fraser University in Burnaby, British Columbia, Canada.</string>
+</resources>
